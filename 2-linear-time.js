@@ -1,6 +1,6 @@
 // "Linear Time" - O(n) example
 
-const array = ['marlin','dory','nemo','bubbles'];
+const tank = ['marlin','dory','nemo','bubbles'];
 
 // Example 1
 function findNemo(array) {
